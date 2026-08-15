@@ -3,7 +3,9 @@ A production analytics dashboard built entirely inside Google Sheets. No server,
 
 <div align="center">
 
-[![View Dashboard](assets/view-dashboard-btn.svg)](https://script.google.com/macros/s/AKfycbz8EzIL7DJBzOmQNTf2mUKtNpfHNiHWCiLYzwWNPDYQw-spqphIRr7CC99GDi13vGDg/exec)
+<a href="https://script.google.com/macros/s/AKfycbz8EzIL7DJBzOmQNTf2mUKtNpfHNiHWCiLYzwWNPDYQw-spqphIRr7CC99GDi13vGDg/exec">
+  <img src="assets/view-dashboard-btn.svg" alt="View Dashboard" width="220">
+</a>
 
 </div>
 
