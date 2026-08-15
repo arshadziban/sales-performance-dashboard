@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="359" height="58" viewBox="0 0 359 58">
-  <rect x="1.5" y="1.5" width="356" height="55" rx="28" ry="28" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
-  <text x="179.5" y="29.5" text-anchor="middle" dominant-baseline="middle"
-        font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700"
-        letter-spacing="0.8" fill="#000000">VIEW DASHBOARD</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="718" height="116" viewBox="0 0 718 116">
+  <rect x="0" y="0" width="718" height="116" rx="76" ry="76" fill="#FFFFFF"/>
+  <text x="359" y="58" text-anchor="middle" dominant-baseline="middle"
+        font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700"
+        letter-spacing="1.5" fill="#000000">VIEW DASHBOARD</text>
 </svg>
