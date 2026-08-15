@@ -1,5 +1,6 @@
-# sales-performance-dashboard
-A production analytics dashboard built entirely inside Google Sheets. No server, no database, no build step.
+# Sales Performance Dashboard
+
+A production-grade analytics dashboard built entirely inside Google Sheets — no server, no database, no build step.
 
 <div align="center">
 
@@ -12,3 +13,4 @@ A production analytics dashboard built entirely inside Google Sheets. No server,
 ## Case Study
 
 ![Sales Performance case study](assets/case_study.png)
+
