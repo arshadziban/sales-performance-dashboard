@@ -3,7 +3,7 @@ A production analytics dashboard built entirely inside Google Sheets. No server,
 
 <div align="center">
 
-[![View Dashboard](https://img.shields.io/badge/VIEW_DASHBOARD-000000?style=flat-square&logo=googlesheets&logoColor=white)](https://script.google.com/macros/s/AKfycbz8EzIL7DJBzOmQNTf2mUKtNpfHNiHWCiLYzwWNPDYQw-spqphIRr7CC99GDi13vGDg/exec)
+[![View Dashboard](assets/view-dashboard-btn.svg)](https://script.google.com/macros/s/AKfycbz8EzIL7DJBzOmQNTf2mUKtNpfHNiHWCiLYzwWNPDYQw-spqphIRr7CC99GDi13vGDg/exec)
 
 </div>
 
